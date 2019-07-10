@@ -38,6 +38,12 @@ export class TransactionComponent implements OnInit {
         date: new Date(),
         description: "Credit Card",
         amount: -1250                  
+      },
+      { 
+        Id: 5,
+        date: new Date(),
+        description: "Vitality Cash Back",
+        amount: 220                  
       }
     ];
   }
