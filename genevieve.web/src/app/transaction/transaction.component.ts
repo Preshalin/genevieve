@@ -44,6 +44,30 @@ export class TransactionComponent implements OnInit {
         date: new Date(),
         description: "Vitality Cash Back",
         amount: 220                  
+      },
+      { 
+        Id: 6,
+        date: new Date(),
+        description: "Chloe",
+        amount: 500                  
+      },
+      { 
+        Id: 7,
+        date: new Date(),
+        description: "KFC",
+        amount: -199                  
+      },
+      { 
+        Id: 8,
+        date: new Date(),
+        description: "Nandos",
+        amount: -220                  
+      },
+      { 
+        Id: 9,
+        date: new Date(),
+        description: "Rent",
+        amount: -4500                  
       }
     ];
   }
